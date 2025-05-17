@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="ProteusNet">
+    <link rel="icon" type="image/ico" href="images/favicon.png">
+
+    <title>Easy Meals Recipe</title>
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="stylesheets/8ddb01bd.main.css"/>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Google fonts -->
+    <script type="text/javascript">
+      WebFontConfig = {
+        google: { families: [ 'Arvo:700:latin', 'Open+Sans:400,600,700:latin' ] }
+      };
+      (function() {
+        var wf = document.createElement('script');
+        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+        wf.type = 'text/javascript';
+        wf.async = 'true';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(wf, s);
+      })();
+    </script>
+
+  </head>
+  <body>
+    <div class="top">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12  col-sm-6">
+        <div class="top__slogan">
+
+        </div>
+      </div>
+      <div class="col-xs-12  col-sm-6">
+        <div class="top__menu">
+          <ul class="nav  nav-pills">
+
+
+            <li class="dropdown  js--mobile-dropdown">
+               <a href="#"><span class="glyphicon  glyphicon-envelope"></span>   service@easymealsrecipe.online</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-10  col-md-3">
+        <div class="header-logo">
+          <a href="index.html"><img alt="Logo" src="images/logo-2.png" width="200" height="50"></a>
+        </div>
+      </div>
+      <div class="col-xs-2  visible-sm  visible-xs">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle  collapsed" data-toggle="collapse" data-target="#collapsible-navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+      </div>
+      <div class="col-xs-12  col-md-9">
+        <nav class="navbar  navbar-default" role="navigation">
+  <!-- Collect the nav links, forms, and other content for toggling -->
+  <div class="collapse  navbar-collapse" id="collapsible-navbar">
+    <ul class="nav  navbar-nav">
+      <li class="dropdown">
+        <a href="index.html" class="dropdown-toggle">HOME</a>
+      </li>
+	  <li><a href="about-us.html">ABOUT</a></li>
+      <li class="dropdown">
+        <a href="recipe.html" class="dropdown-toggle">RECIPIES</a>
+
+      </li>
+
+
+
+     <li><a href="contact.html">CONTACT</a></li>
+
+     <li><a href="privacy.html">PRIVACY AND POLICY</a></li>
+     <li><a href="terms.html">TERMS AND CONDITIONS</a></li>
+
+
+    </ul>
+    <!-- search for mobile devices -->
+
+
+  </div><!-- /.navbar-collapse -->
+</nav>
+
+      </div>
+
+  </div>
+
+  <!--Search open pannel-->
+  <div class="search-panel">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-11">
+          <form class="search-panel__form" action="search-results.html">
+            <button type="submit"><span class="glyphicon  glyphicon-search"></span></button>
+            <input type="text" name="s" class="form-control" placeholder="Enter your search keyword">
+          </form>
+        </div>
+        <div class="col-sm-1">
+          <div class="search-panel__close  pull-right">
+            <a href="#" class="js--toggle-search-mode"><span class="glyphicon  glyphicon-circle  glyphicon-remove"></span></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="breadcrumbs">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <nav>
+          <ol class="breadcrumb">
+
+            <li><a href="index.html">Home</a></li>
+
+            <li class="active">Recipe</li>
+
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+
+  <!-- Banners medium -->
+<div class="row">
+<div class="container">
+  <div class="col-xs-12 col-sm-6">
+    <a href="recipe.html">
+      <div class="banners-medium">
+        <span class="banners-text">New arrivals in <strong>Mashrooms &amp; Fungus</strong> Recipe's</span>
+        <span class="glyphicon  glyphicon-circle  glyphicon-chevron-right"></span>
+      </div>
+    </a>
+  </div>
+  <div class="col-xs-12 col-sm-6">
+    <a href="recipe.html">
+      <div class="banners-medium">
+        <span class="banners-text">Up to 35% off in <strong>Recipe's</strong> Prices</span>
+        <span class="glyphicon  glyphicon-circle  glyphicon-chevron-right"></span>
+      </div>
+    </a>
+  </div>
+</div>
+  <!-- Navigation -->
+<div class="products-navigation  push-down-15">
+  <div class="products-navigation__title">
+    <h3><span class="light">Our</span>Recipe's</h3>
+  </div>
+</div>
+
+<!-- Products -->
+<div class="row">
+
+
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-2" data-price="14.36" data-rating="4">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="single-product.html">
+        <img alt="lamb-adobo.html" class="product__image" width="263" height="334" src="images/food1.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="lamb-adobo.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="lamb-adobo.html">Lamb Adobo Recipe</a>
+        </h5>
+      </div>
+       <div class="col-xs-3">
+        <div class="products__price">
+          Free
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-2" data-price="13.23" data-rating="4">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="steamed-whole-fish.html">
+        <img alt="#" class="product__image" width="263" height="334" src="images/food2.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="steamed-whole-fish	.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="steamed-whole-fish.html">Steamed Fish Recipe</a>
+        </h5>
+      </div>
+       <div class="col-xs-3">
+        <div class="products__price">
+          Free
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+     <div class="clearfix visible-xs"></div>
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-3" data-price="8.22" data-rating="3">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="wine-braised-duck.html">
+        <img alt="#" class="product__image" width="263" height="334" src="images/food3.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="wine-braised-duck.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="wine-braised-duck.html">Wine Duck Recipe</a>
+        </h5>
+      </div>
+      <div class="col-xs-3">
+        <div class="products__price">
+          Free
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-2" data-price="13.71" data-rating="5">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="winemaker-roast-duck.html">
+        <img alt="winemaker-roast-duck" class="product__image" width="263" height="334" src="images/food4.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="winemaker-roast-duck.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="winemaker-roast-duck.html"> Roast Duck Recipe</a>
+        </h5>
+      </div>
+      <div class="col-xs-3">
+        <div class="products__price">
+          Free
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+     <div class="clearfix visible-xs"></div>
+
+</div>
+<div class="row">
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-3" data-price="4.61" data-rating="5">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="pricing.html">
+        <img alt="#" class="product__image" width="263" height="334" src="images/food5.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="pricing.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="pricing.html">Fermented and Sesame Recipe</a>
+        </h5>
+      </div>
+      <div class="col-xs-3">
+        <div class="products__price">
+          Paid
+        </div>
+      </div>
+    </div>
+    <div class="products__category">
+      Paid
+    </div>
+  </div>
+</div>
+
+
+
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-7" data-price="6.9" data-rating="3">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="pricing.html">
+        <img alt="#" class="product__image" width="263" height="334" src="images/food6.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="pricing.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="pricing.html">Ribs  Recipe</a>
+        </h5>
+      </div>
+      <div class="col-xs-3">
+        <div class="products__price">
+         Paid
+        </div>
+      </div>
+    </div>
+    <div class="products__category">
+      Paid
+    </div>
+  </div>
+</div>
+
+
+     <div class="clearfix visible-xs"></div>
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-6" data-price="16.88" data-rating="4">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="pricing.html">
+        <img alt="#" class="product__image" width="263" height="334" src="images/food7.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="pricing.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="pricing.html">Spanish Noodles with Prawns Recipe</a>
+        </h5>
+      </div>
+      <div class="col-xs-3">
+        <div class="products__price">
+          Paid
+        </div>
+      </div>
+    </div>
+    <div class="products__category">
+     Paid
+    </div>
+  </div>
+</div>
+
+
+
+
+
+      <div class="col-xs-6 col-sm-3  js--isotope-target  js--cat-6" data-price="16.91" data-rating="5">
+  <div class="products__single">
+    <figure class="products__image">
+      <a href="pricing.html">
+        <img alt="#" class="product__image" width="263" height="334" src="images/food8.jpg">
+      </a>
+      <div class="product-overlay">
+        <a class="product-overlay__more" href="pricing.html">
+          <span class="glyphicon glyphicon-search"></span>
+        </a>
+
+
+      </div>
+    </figure>
+    <div class="row">
+      <div class="col-xs-9">
+        <h5 class="products__title">
+          <a class="products__link  js--isotope-title" href="pricing.html">Beans  Walnuts  Recipe</a>
+        </h5>
+      </div>
+      <div class="col-xs-3">
+        <div class="products__price">
+         Paid
+        </div>
+      </div>
+    </div>
+    <div class="products__category">
+      Paid
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+  <!-- Banners big -->
+<div class="banners-big  banners-big--newsletter">
+  <div class="row">
+    <div class="col-xs-12  col-md-7">
+      <div class="banners-big__text">
+        Sign up on newsletter for more information about <strong>Recipe's</strong>
+      </div>
+    </div>
+    <div class="col-xs-12  col-md-5">
+      <div class="banners-big__form">
+        <form action="#" method="post" name="mc-embedded-subscribe-form" role="form" target="_blank">
+          <div class="form-group  form-group--form">
+            <input type="email" name="EMAIL" class="form-control  form-control--form" placeholder="Enter your E-mail address" required>
+            <button class="btn  btn-primary" type="submit">Sign up now</button>
+          </div>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;"><input type="text" name="b_ea0786485977f5ec8c9283d5c_5dad3f35e9" value=""></div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="Disclaimer">
+<h2>Disclaimer:</h2>
+<p>The recipes shared on this website are for informational purposes only. While we strive to ensure accuracy and safety, please use your best judgment when preparing meals, especially in cases of allergies, dietary restrictions, or health conditions. Always consult with a qualified professional for specific dietary or medical advice.</p>
+</div>
+
+  <footer class="js--page-footer">
+    <div class="footer-widgets">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12  col-sm-3">
+            <div class="footer-widgets__social">
+              <a href="index.html"><h2 style="color:white;">Easy Meals Recipe</h2></a>
+              <p class="push-down-15">Easy Meals Recipe is a sustenance and equations site . we prescribe a wide range of items we think you'll adore. </p>
+
+            </div>
+          </div>
+          <div class="col-xs-12  col-sm-3">
+            <nav class="footer-widgets__navigation">
+              <div class="footer-wdgets__heading--line">
+                <h4 class="footer-widgets__heading">Links</h4>
+              </div>
+              <ul class="nav nav-footer">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="recipe.html">Recipies</a></li>
+                <li><a href="terms.html">Terms and Conditions</a></li>
+                <li><a href="privacy.html">Privacy and Policy</a></li>
+
+
+              </ul>
+            </nav>
+          </div>
+          <div class="col-xs-12  col-sm-3">
+            <div class="footer-widgets__navigation">
+              <div class="footer-wdgets__heading--line">
+                <h4 class="footer-widgets__heading">Recipes</h4>
+              </div>
+              <a class="tag" href="lamb-adobo.html">Lamb Adobo Recipe</a>  <a class="tag" href="steamed-whole-fish.html">Steamed whole fish</a> <a class="tag" href="wine-braised-duck.html">Wine braised duck</a>  <a class="tag" href="winemaker-roast-duck.html">Winemaker roast duck</a>
+            </div>
+          </div>
+          <div class="col-xs-12  col-sm-3">
+            <div class="footer-widgets__navigation">
+                <div class="footer-wdgets__heading--line">
+                  <h4 class="footer-widgets__heading">Contact Us</h4>
+                </div>
+                <a class="footer__link" href="#">Easy Meals Recipe.</a><br>
+
+
+
+                <a class="footer__link" href="#"><span class="glyphicon glyphicon-envelope glyphicon--footer"></span> service@easymealsrecipe.online</a>
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12  col-sm-6">
+            <div class="footer__text--link">
+              <a class="footer__link" href="#"></a> © Copyright 2023. Easy Meals Recipe .
+            </div>
+          </div>
+          <div class="col-xs-12  col-sm-6">
+            <div class="footer__text">
+               by <a class="footer__link" href="#" target="_blank">Easy Meals Recipe</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <div class="search-mode__overlay"></div>
+
+
+    <script type="text/javascript">
+      function downloadJSAtOnload() {
+        var element = document.createElement("script");
+        element.src = "js/main.js";
+        document.body.appendChild(element);
+      }
+      if (window.addEventListener)
+        window.addEventListener("load", downloadJSAtOnload, false);
+      else if (window.attachEvent)
+        window.attachEvent("onload", downloadJSAtOnload);
+      else window.onload = downloadJSAtOnload;
+    </script>
+
+  </body>
+</html>
