@@ -9,7 +9,7 @@
     <meta name="author" content="ProteusNet">
     <link rel="icon" type="image/ico" href="images/favicon.png">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <title>Easy Meals Recipe | This brilliant cooking site solves the biggest problem with recipes</title>
+    <title>Daily Food And Recipes Online | This brilliant cooking site solves the biggest problem with recipes</title>
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="stylesheets/8ddb01bd.main.css"/>
